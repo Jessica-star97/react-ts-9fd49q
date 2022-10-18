@@ -1,10 +1,19 @@
-import React, { useState } from 'react';
+import React, { useState , useEffect} from 'react';
 import './Car.css';
 
 export default function Car(props) {
   const [beepeado, setBeppeado] = useState(false);
 
   //Style from: https://www.w3schools.com/howto/howto_css_cards.asp
+
+
+
+  useEffect(() => {
+ //   alert("Se  va a guardar en Base de Datos");
+    // codigo necesario para guardar en base de datos
+ // alert("Bepeando se guardo en base de datos");
+
+},[beepeado]);
 
   const estiloDivCardContenedor = {
     padding: '0px 16px 16px',
