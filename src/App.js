@@ -53,12 +53,12 @@ const personajes = [{
       />
 
 <Car
-        nombre="Rayo McQueen"
-        modelo="Chevrolet Corvette C6 de NASCAR"
-        imagen="https://i.ytimg.com/vi/2gRcvS2ltjE/maxresdefault.jpg"
-        descripcion="El auto mas veloz de la serie de peliculas de Cars."
-        sonido="KuChao"
-        anio="2006"
+        nombre="Quantum"
+        modelo="EU"
+        imagen="https://www.elcarrocolombiano.com/wp-content/uploads/2019/10/20191012-QUANTUM-E2-CARRO-ELECTRICO-HECHO-EN-BOLIVIA-01.jpg"
+        descripcion="Quantum, es un citycar eléctrico"
+        sonido="BIIBB"
+        anio="2022"
       />
 
 
