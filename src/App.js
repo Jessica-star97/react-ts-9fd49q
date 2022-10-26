@@ -40,7 +40,28 @@ const personajes = [{
       }}
     >
 
-  
+<Car
+        nombre="Delorean"
+        modelo="DMC"
+        sonido="RomRom"
+        imagen="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delorean-dmc-12-replica-de-regreso-al-futuro-1648985337.jpg?crop=1.00xw:0.892xh;0,0.0385xh&resize=1200:*"
+        descripcion="La máquina del tiempo DeLorean, en inglés DeLorean time machine, 
+        es un artefacto ficticio para viajar en el tiempo de la trilogía 
+        de películas de Back to the Future, basado en el DMC DeLorean de 1981. 
+        Fue inventada por el doctor Emmett Brown en 1985."
+        anio="1981"
+      />
+
+<Car
+        nombre="Rayo McQueen"
+        modelo="Chevrolet Corvette C6 de NASCAR"
+        imagen="https://i.ytimg.com/vi/2gRcvS2ltjE/maxresdefault.jpg"
+        descripcion="El auto mas veloz de la serie de peliculas de Cars."
+        sonido="KuChao"
+        anio="2006"
+      />
+
+
 
       <Car
         nombre="Rayo McQueen"
