@@ -50,7 +50,7 @@ export default function Car(props) {
           <br />
           {props.anio < 1970 && (
             <img
-              src="https://www.atotoclassicclub.com/images/logo_a.png"
+              src="https://i.pinimg.com/originals/ab/86/27/ab86278eb8156e1608e3a960f0c5761f.png"
               width="32"
               alt="Insignia Clásico"
             />
