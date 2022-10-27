@@ -1,5 +1,5 @@
 .estiloDivCard {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(12, 133, 231, 0.2);
   border-radius: 5px;
   max-width: 300px;
   margin: auto;
@@ -11,7 +11,7 @@
 }
 
 .b {
-  border: 0.5vmin solid black;
+  border: 0.5vmin solid rgb(34, 160, 245);
 }
 
 .r {
