@@ -6,6 +6,12 @@
   background: #E9B49D;
 }
 
+.buttonBeeb{
+  background:#E3D2CE;
+  border: 0.5vmin solid rgba(116, 98, 80, 0.938);
+  font-family: 'Comic Neve';
+}
+
 .estiloImgCard {
   width: 100%;
   border-radius: 5px 5px 0 0;
