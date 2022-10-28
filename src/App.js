@@ -1,6 +1,6 @@
 import React , {useState , useEffect}from 'react';
 import './style.css';
-import Car from './car/Car.js';
+import Car from './car/Carro.js';
 
 
 

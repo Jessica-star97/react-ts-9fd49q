@@ -1,5 +1,5 @@
 import React, { useState , useEffect} from 'react';
-import './Car.css';
+import './Carro.css';
 
 export default function Car(props) {
   const [beepeado, setBeppeado] = useState(false);
