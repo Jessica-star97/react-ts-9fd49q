@@ -3,6 +3,7 @@
   border-radius: 5px;
   max-width: 300px;
   margin: auto;
+  background: #E9B49D;
 }
 
 .estiloImgCard {
@@ -11,7 +12,7 @@
 }
 
 .b {
-  border: 0.5vmin solid rgb(34, 160, 245);
+  border: 0.5vmin solid rgb(122, 198, 248);
 }
 
 .r {
@@ -35,7 +36,7 @@
   justify-content: center;
   text-align: center;
   font-size: 3vmin;
-  background: #ffd;
+  background:#B1CFEA;
   box-shadow: 0 -0.25vmin, 0 0.125vmin;
   font-family: 'Comic Sans', 'Comic Neue', sans-serif;
 }
